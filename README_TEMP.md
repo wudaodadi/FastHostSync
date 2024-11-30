@@ -3,7 +3,7 @@
 
 ## 1. 实现
 对Hosts进行一个新的更  
-解决Steam、github、tor、brave、iwara、apkpure访问问题
+解决Steam、github、tor、brave、iwara、apkpure访问问题 'dsd'
 
 ## 2. 使用方法
 ## 自动方法(使用工具)
