@@ -15,7 +15,7 @@ win + R 后执行 `shell:startup`
 将快捷方式复制进去即可  
 ![](/img/2.png)  
 ### 配置SwitchHosts实现自动更新  
-
+All host ：https://raw.githubusercontent.com/wudaodadi/FastHostSync/refs/heads/main/Hosts
 
 ![](/img/3.png)
 
