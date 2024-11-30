@@ -3,7 +3,7 @@
 
 ## 1. 实现
 对Hosts进行一个新的更  
-解决Steam、github访问问题
+解决Steam、github、tor、brave、iwara、apkpure访问问题
 
 ## 2. 使用方法
 ## 自动方法(使用工具)
@@ -15,15 +15,7 @@ win + R 后执行 `shell:startup`
 将快捷方式复制进去即可  
 ![](/img/2.png)  
 ### 配置SwitchHosts实现自动更新  
-可选的URL有:
-如果访问不到GitHub可以尝试将`github.com`替换为`hub.fastgit.xyz`(国内镜像)
-1. ALL: `https://raw.githubusercontent.com/Clov614/SteamHostSync/main/Hosts`  
-2. Steam: `https://raw.githubusercontent.com/Clov614/SteamHostSync/main/Hosts_steam`  
-3. github: `https://raw.githubusercontent.com/Clov614/SteamHostSync/main/Hosts_github`    
-`镜像地址:`
-4. All: `https://raw.sevencdn.com/Clov614/SteamHostSync/main/Hosts`  
-5. Steam: `https://raw.sevencdn.com/Clov614/SteamHostSync/main/Hosts_steam`  
-6. github: `https://raw.sevencdn.com/Clov614/SteamHostSync/main/Hosts_github`  
+
 
 ![](/img/3.png)
 
